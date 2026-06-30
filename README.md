@@ -77,5 +77,3 @@ python -m src.evaluate
 - **Rastreabilidade (TensorBoard):** Suporte nativo ao monitoramento de métricas e convergência da rede durante as epochs de treinamento.
 - **Testes Limites (Boundary Testing):** O conjunto `pytest` cobre o *forward pass* de redes neurais com tensores falsos e valida as normalizações e formato de dados.
 
----
-*Desenvolvido com IA em Pair Programming.*
