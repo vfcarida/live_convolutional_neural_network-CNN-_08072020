@@ -5,7 +5,7 @@
 ![MLOps](https://img.shields.io/badge/MLOps-Práticas-success)
 ![Build](https://img.shields.io/badge/Status-Refatorado-brightgreen)
 
-## 📌 Visão Executiva
+## 📌 Overview
 
 Este repositório foi modernizado a partir de um script monolítico em notebook para uma arquitetura robusta e profissional de Engenharia de Software focada em **Machine Learning Operations (MLOps)**. O projeto treina uma Rede Neural Convolucional (CNN) no dataset CIFAR-10, implementando padrões de projeto como modularidade, callbacks de treinamento (Early Stopping, Checkpointing) e automação de testes unitários.
 
